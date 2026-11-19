@@ -1,16 +1,41 @@
-# React + Vite
+# TrustCart 🛡️
+### Shop Smarter. Trust What You Buy.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TrustCart is a consumer-protection web application designed to help online shoppers make safer and more informed purchasing decisions.
 
-Currently, two official plugins are available:
+It helps users identify potentially suspicious product reviews, check scam messages and links, generate formal complaints, and keep track of their analysis history.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **Product Analyzer:** Analyzes product reviews using rule-based checks to identify suspicious patterns.
+- **Scam Checker:** Examines messages and URLs for common scam indicators and assigns a risk level.
+- **Complaint Assistant:** Generates professional complaint drafts for common e-commerce problems.
+- **Dashboard:** Displays user activity and analysis summaries.
+- **Trust History:** Keeps a record of previous checks and generated complaints.
+- **User Authentication:** Supports account registration, login, and password recovery.
+- **Theme Settings:** Supports light and dark mode.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Supabase (Authentication and Database)
+- Lucide React (Icons)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 How It Works
+
+TrustCart currently uses rule-based analysis to identify suspicious review patterns and common scam indicators. The Complaint Assistant generates structured complaint drafts using user-provided information.
+
+These features are designed to support safer shopping decisions and should not be treated as guarantees that a product, seller, or message is safe.
+
+## 👩‍💻 Developer
+
+**Sara Bhosale**
+
+GitHub: [sarabhosale216](https://github.com/sarabhosale216)
+
+---
+*TrustCart — Shop Smarter. Trust What You Buy.*
